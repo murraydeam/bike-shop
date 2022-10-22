@@ -22,9 +22,10 @@ const Product = ({ product }) => {
           <div className="my-3">
             <Rating
               value={product.rating}
-              text={`${product.numReviews} reviews`}
               color={"#f8e825"}
+              text={`${product.numReviews} reviews`}
             />
+            <div className="reviews"></div>
           </div>
         </Card.Text>
 

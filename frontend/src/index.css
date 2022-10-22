@@ -6,6 +6,26 @@ h3 {
   padding: 1rem 0;
 }
 
+.row {
+  justify-content: center;
+}
+
 .rating span {
   margin: 0.1rem;
 }
+
+.card {
+  height: 25rem;
+}
+
+.card-title {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
