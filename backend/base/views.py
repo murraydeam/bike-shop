@@ -25,3 +25,12 @@ def getRoutes(request):
 
 def getProducts(request):
     return JsonResponse(products, safe=False)
+
+
+def getProduct(request, pk):
+    product = None
+    for item in products:
+        if item['id'] == pk:
+            product = item
+            break
+    return JsonResponse(product, safe=False)
