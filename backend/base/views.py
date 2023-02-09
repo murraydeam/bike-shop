@@ -34,3 +34,6 @@ def getProduct(request, pk):
             product = item
             break
     return JsonResponse(product, safe=False)
+
+
+

@@ -61,7 +61,7 @@ products = [
         'category': "Drilled Shafts",
         'price': "$396.19",
         'countInStock': 374,
-        'rating': 0,
+        'rating': 4,
         'numReviews': 214,
         'descriptionLong':
         "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
@@ -103,7 +103,7 @@ products = [
         'category': "Painting & Vinyl Wall Covering",
         'price': "$112.15",
         'countInStock': 718,
-        'rating': 0,
+        'rating': 3,
         'numReviews': 286,
         'descriptionLong':
         "Curabitur grav'id'a nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tinc'id'unt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tinc'id'unt eget, tempus vel, pede.",
