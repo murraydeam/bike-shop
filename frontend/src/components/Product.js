@@ -12,7 +12,7 @@ const Product = ({ product }) => {
       }}
     >
       <Link to={`./product/${product.id}`}>
-        <Card.Img height={150} width={"150"} src={product.image} />
+        <Card.Img height={150} src={product.image} />
       </Link>
       <Card.Body className="mt-3 card-body">
         <Link to={`/product/${product.id}`}>

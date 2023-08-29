@@ -2,7 +2,7 @@ products = [
     {
         'id': 1,
         'name': "Violet",
-        'image': "https://picsum.photos/300",
+        'image': "https://picsum.photos/1440",
         'category': "Drywall & Acoustical (MOB)",
         'price': "$223.17",
         'countInStock': 153,
@@ -16,7 +16,7 @@ products = [
     {
         'id': 2,
         'name': "Mauv",
-        'image': "https://picsum.photos/301",
+        'image': "https://picsum.photos/1441",
         'category': "Electrical",
         'price': "$119.46",
         'countInStock': 218,
@@ -30,7 +30,7 @@ products = [
     {
         'id': 3,
         'name': "Violet",
-        'image': "https://picsum.photos/302",
+        'image': "https://picsum.photos/1442",
         'category': "RF Shielding",
         'price': "$111.36",
         'countInStock': 114,
@@ -44,7 +44,7 @@ products = [
     {
         'id': 4,
         'name': "Yellow",
-        'image': "https://picsum.photos/303",
+        'image': "https://picsum.photos/1443",
         'category': "Epoxy Flooring",
         'price': "$14.69",
         'countInStock': 113,
@@ -57,7 +57,7 @@ products = [
     {
         'id': 5,
         'name': "Puce",
-        'image': "https://picsum.photos/304",
+        'image': "https://picsum.photos/1444",
         'category': "Drilled Shafts",
         'price': "$396.19",
         'countInStock': 374,
@@ -71,10 +71,10 @@ products = [
     {
         'id': 6,
         'name': "Fuscia",
-        'image': "https://picsum.photos/305",
+        'image': "https://picsum.photos/1445",
         'category': "Roofing (Metal)",
         'price': "$109.26",
-        'countInStock': 304,
+        'countInStock': 1444,
         'rating': 1,
         'numReviews': 394,
         'descriptionLong':
@@ -85,7 +85,7 @@ products = [
     {
         'id': 7,
         'name': "Mauv",
-        'image': "https://picsum.photos/306",
+        'image': "https://picsum.photos/1446",
         'category': "Drilled Shafts",
         'price': "$347.25",
         'countInStock': 282,
@@ -99,7 +99,7 @@ products = [
     {
         'id': 8,
         'name': "Puce",
-        'image': "https://picsum.photos/307",
+        'image': "https://picsum.photos/1447",
         'category': "Painting & Vinyl Wall Covering",
         'price': "$112.15",
         'countInStock': 718,
@@ -113,7 +113,7 @@ products = [
     {
         'id': 9,
         'name': "Puce",
-        'image': "https://picsum.photos/308",
+        'image': "https://picsum.photos/1448",
         'category': "Prefabricated Aluminum Metal Canopies",
         'price': "$273.95",
         'countInStock': 535,
@@ -126,8 +126,8 @@ products = [
     },
     {
         'id': 10,
-        'name': "Red",
-        'image': "https://picsum.photos/309",
+        'name': "Propain",
+        'image': "../PropainBike.jpeg",
         'category': "Marlite Panels (FED)",
         'price': "$157.89",
         'countInStock': 678,
